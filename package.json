@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/interface",
   "description": "Uniswap Interface",
-  "homepage": "https://BlockchainResources.github.io/uniTest/index.html",
+  "homepage": "https://BlockchainResources.github.io/uniTest",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
