@@ -4,8 +4,8 @@
     "static/js/0.454e5a78.chunk.js.map": "/uniexchangetest/static/js/0.454e5a78.chunk.js.map",
     "static/js/1.ab9e1769.chunk.js": "/uniexchangetest/static/js/1.ab9e1769.chunk.js",
     "static/js/1.ab9e1769.chunk.js.map": "/uniexchangetest/static/js/1.ab9e1769.chunk.js.map",
-    "main.js": "/uniexchangetest/static/js/main.f6ff216d.chunk.js",
-    "main.js.map": "/uniexchangetest/static/js/main.f6ff216d.chunk.js.map",
+    "main.js": "/uniexchangetest/static/js/main.2facfbb0.chunk.js",
+    "main.js.map": "/uniexchangetest/static/js/main.2facfbb0.chunk.js.map",
     "runtime-main.js": "/uniexchangetest/static/js/runtime-main.c5dc88af.js",
     "runtime-main.js.map": "/uniexchangetest/static/js/runtime-main.c5dc88af.js.map",
     "static/css/4.f19753bd.chunk.css": "/uniexchangetest/static/css/4.f19753bd.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/9.f59a39d0.chunk.js": "/uniexchangetest/static/js/9.f59a39d0.chunk.js",
     "static/js/9.f59a39d0.chunk.js.map": "/uniexchangetest/static/js/9.f59a39d0.chunk.js.map",
     "index.html": "/uniexchangetest/index.html",
-    "precache-manifest.52799b67ae13c5647bd791a69be7ad9d.js": "/uniexchangetest/precache-manifest.52799b67ae13c5647bd791a69be7ad9d.js",
+    "precache-manifest.539e6646fd6a24c01e16a800d5f5ba12.js": "/uniexchangetest/precache-manifest.539e6646fd6a24c01e16a800d5f5ba12.js",
     "service-worker.js": "/uniexchangetest/service-worker.js",
     "static/css/4.f19753bd.chunk.css.map": "/uniexchangetest/static/css/4.f19753bd.chunk.css.map",
     "static/js/4.1492a8d1.chunk.js.LICENSE.txt": "/uniexchangetest/static/js/4.1492a8d1.chunk.js.LICENSE.txt",
@@ -63,6 +63,6 @@
     "static/js/runtime-main.c5dc88af.js",
     "static/css/4.f19753bd.chunk.css",
     "static/js/4.1492a8d1.chunk.js",
-    "static/js/main.f6ff216d.chunk.js"
+    "static/js/main.2facfbb0.chunk.js"
   ]
 }
